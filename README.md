@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NavaGnanendar
+- 👋 Hi, I’m @NavaGnanendarreddy
 - 👀 I’m interested in ... scientitfic and logical tinking to create new technology
 - 🌱 I’m currently learning ... Java , web Development 
 - 💞️ I’m looking to collaborate on ... Google
